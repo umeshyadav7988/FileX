@@ -49,7 +49,3 @@ FileX is a file-sharing application where users can upload files and receive a l
    npm install
 6. Set up MongoDB:
    Ensure MongoDB is running locally or connected to a cloud instance (e.g., MongoDB Atlas).
-
-
-
-8. 
